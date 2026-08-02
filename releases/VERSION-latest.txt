@@ -1,5 +1,5 @@
 Qunkong Agent
-Version: v20251129055542-bc14910
-Build Date: 2025-11-29 05:55:42 UTC
-Commit: bc14910
+Version: v20260802204454-9a731e1
+Build Date: 2026-08-02 20:44:54 UTC
+Commit: 9a731e1
 Platform: Linux x86_64
